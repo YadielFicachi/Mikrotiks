@@ -134,7 +134,8 @@ Hotspot soporta autenticación standard de servidores RADIUS o el administrador 
 <td align="right">$ 39.95</td>
 </tr>
 </tbody>
-</table><blockquote>
+</table><p><img src="https://img.routerboard.com/mimg/part341397726008s.jpg" alt=""></p>
+<blockquote>
 <p>Escrito Por <a href="https://github.com/YadielFicachi">Hugo Yadiel</a></p>
 </blockquote>
 
