@@ -112,6 +112,7 @@ Hotspot soporta autenticación standard de servidores RADIUS o el administrador 
 <li><strong>Firewall NAT.</strong> Evidentemente Mikrotik te ofrece aplicaciones de última tecnología para impedir que alguien pueda entrar en tu red.</li>
 </ul>
 <h1 id="análisis-de-routers-mikrotiks">Análisis de routers Mikrotiks</h1>
+<h2 id="rb750r2">RB750r2</h2>
 
 <table>
 <thead>
@@ -134,7 +135,7 @@ Hotspot soporta autenticación standard de servidores RADIUS o el administrador 
 <td align="right">$ 39.95</td>
 </tr>
 </tbody>
-</table><p><img src="https://img.routerboard.com/mimg/part341397726008s.jpg" alt=""></p>
+</table><p><img src="https://img.routerboard.com/mimg/1041_m.png" alt="#"></p>
 <blockquote>
 <p>Escrito Por <a href="https://github.com/YadielFicachi">Hugo Yadiel</a></p>
 </blockquote>
