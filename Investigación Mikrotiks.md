@@ -117,5 +117,9 @@ Mikrotik te brinda la posibilidad de gestionar varias aplicaciones, ya sea insta
 - **Firewall NAT.** Evidentemente Mikrotik te ofrece aplicaciones de última tecnología para impedir que alguien pueda entrar en tu red.
 
 
+## Analisis de Mikrotiks
+| Column 1 | Column 2 |
+|:--------:| -------------:|
+| centered | right-aligned |
 
 > Escrito Por [Hugo Yadiel](https://github.com/YadielFicachi)
