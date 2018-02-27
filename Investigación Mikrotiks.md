@@ -124,4 +124,5 @@ Mikrotik te brinda la posibilidad de gestionar varias aplicaciones, ya sea insta
 |:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
 | RB750r2 (hEX lite) | Es un pequeño enrutador ethernet de cinco puertos en una carcasa de plástico. | MIPSBE | 64 MB | 16 MB | $ 39.95 |
 
+![](https://img.routerboard.com/mimg/part341397726008s.jpg)
 > Escrito Por [Hugo Yadiel](https://github.com/YadielFicachi)
