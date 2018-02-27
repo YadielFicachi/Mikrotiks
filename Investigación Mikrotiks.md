@@ -117,9 +117,11 @@ Mikrotik te brinda la posibilidad de gestionar varias aplicaciones, ya sea insta
 - **Firewall NAT.** Evidentemente Mikrotik te ofrece aplicaciones de última tecnología para impedir que alguien pueda entrar en tu red.
 
 
-## Analisis de Mikrotiks
-| Column 1 | Column 2 |
-|:--------:| -------------:|
-| centered | right-aligned |
+
+# Análisis de routers Mikrotiks
+
+| Nombre | Descripción | Arquitectura | RAM | Almacenamiento | Precio |
+|:--------:| :-------------:|:--------:| -------------:|:--------:| -------------:|
+| RB750r2 (hEX lite) | Es un pequeño enrutador ethernet de cinco puertos en una carcasa de plástico. | MIPSBE | 64 MB | 16 MB | $ 39.95 |
 
 > Escrito Por [Hugo Yadiel](https://github.com/YadielFicachi)
